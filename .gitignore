@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Run Docker Run/*
+!/Run Docker Run/task/
+/Run Docker Run/task/*
+!/Run Docker Run/task/hyper-app

@@ -1,0 +1,6 @@
+https://github.com/hyperskill/hs-test-python/archive/release.tar.gz
+docker~=6.0.1
+
+
+Flask==2.3.2
+requests~=2.29.0
